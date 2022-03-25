@@ -1,0 +1,679 @@
+
+        
+
+        .r1 { 
+            width: 220px;
+            height: 70px;
+            background: rgba(1, 61, 208,0.85);
+            border-radius: 5%;
+            }
+
+        .cb5 {
+            position: absolute;
+            top: 50px;
+            left: 1480px;
+
+        }
+
+        body{
+            background-color: white;
+        }
+
+       
+        .BOTONES_SUPERIORES {
+            font-family: Arial, Helvetica, sans-serif;
+            font-style: HELVETICA;
+
+
+        }
+        p{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        h1{font-family: Arial, Helvetica, sans-serif;}
+        h2{font-family: Arial, Helvetica, sans-serif;}
+        h3{font-family: Arial, Helvetica, sans-serif;}
+
+
+        #titulo{
+            color: rgb(56, 106, 228 );
+            text-align: left;
+            position: absolute;
+            top: 50px;
+            left: 100px;
+        }
+        #BOTON1{
+            color: rgb(131, 131, 132);
+
+            position: absolute;
+            top: 50px;
+            left: 700px;
+        }
+        #BOTON2{
+            color: rgb(131, 131, 132);
+
+            position: absolute;
+            top: 50px;
+            left: 900px;
+        }
+        #BOTON3{
+            color: rgb(131, 131, 132);
+
+            position: absolute;
+            top: 50px;
+            left: 1100px;
+        }
+        #BOTON4{
+            color: rgb(131, 131, 132);
+
+            position: absolute;
+            top: 50px;
+            left: 1250px;
+        }
+        #BOTON5{
+            color: white;
+           
+
+            position: absolute;
+            top: 50px;
+            left: 1500px;
+        }
+        .triangulo1{
+            width: 0px;
+            height: 0px;
+            border-bottom: 180px solid transparent;
+            border-left: 0px solid transparent;
+            border-right: 180px solid  #7a7a7a17 ;
+            border-top: 180px solid transparent ;
+            position: absolute;
+            top: 500px;
+            left: 840px;
+        }
+        .triangulo2{
+            width: 0px;
+            height: 0px;
+            border-bottom: 0px solid transparent;
+            border-left: 110px solid transparent ;
+            border-right: 110px solid transparent ;
+            border-top: 100px solid #2423230e ;
+            position: absolute;
+            top: 170px;
+            left: 50px;
+        }
+        .triangulo3{
+            width: 0px;
+            height: 0px;
+            border-bottom: 100px solid transparent;
+            border-left: 0px solid transparent;
+            border-right: 100px solid  #7a7a7a17 ;
+            border-top: 100px solid transparent ;
+            position: absolute;
+            top: 1350px;
+            left: 1625px;
+        }
+        .rectangulo1{
+            width: 800px;
+            height: 3px;
+            position: absolute;
+            top: 1450px;
+            left: 925px;
+            background-color:  #a19e9e15 ;
+        }
+        .triangulo4{
+            width: 0px;
+            height: 0px;
+            border-bottom: 150px solid transparent;
+            border-left: 150px solid #7a7a7a21;
+            border-right: 0px solid  transparent ;
+            border-top: 150px solid transparent ;
+            position: absolute;
+            top: 2400px;
+            left: 0px;
+        }
+        .rectangulo2{
+            width: 750px;
+            height: 3px;      
+            position: absolute;
+            top: 2550px;
+            left: 0px;
+            background-color:  #a19e9e15 ;
+        }
+
+        
+        .texto_superior{
+            font-style: arial;
+            color: rgba(30,62,115,255);
+            font-size: 100px;
+            text-align: left;
+            position: absolute;
+            top: 250px;
+            left: 150px;
+
+
+        }
+        p.texto_superior2{
+            color: rgba(30, 63, 115, 0.747);
+            text-align: left;
+            position: absolute;
+            top: 550px;
+            left: 150px;
+            font-size: 30px;
+            line-height : 45px;
+        }
+        .imagenes{
+            position: absolute;
+            top: 200px;
+            left: 1000px;
+            object-fit: 2000px;
+            height: 1000px;
+            width: 1000px;
+
+
+        }
+        .imagenes2{
+            position: absolute;
+            top: 885px;
+            left: 385px;
+            
+        }
+        img {
+            max-width: 100%;
+            max-height: 100%;
+            }
+       
+        .imagenes3{
+            position: absolute;
+            top: 846px;
+            left: 150px;
+            
+        }
+        .texto_superior3{   font-style: helvetica ;
+            font-size: 30px;
+            color: rgba(30, 63, 115, 0.747);
+            position: absolute;
+            top: 830px;
+            left: 230px;}
+
+        .imagenes4{
+            position: absolute;
+            top: 750px;
+            left: 100px;
+            
+        }
+
+        .text_protection{
+            font-style: helvetica ;
+            font-size: 20px;
+            color: rgba(30, 63, 115, 0.747);
+            position: absolute;
+            top: 740px;
+            left: 145px;
+          
+            
+        }
+        .imagenes5{
+            position: absolute;
+            top: 750px;
+            left: 500px;
+        
+        }
+
+        .text_select_va{
+            font-style: helvetica ;
+            font-size: 20px;
+            color: rgba(30, 63, 115, 0.747);
+            position: absolute;
+            top: 740px;
+            left: 545px;
+          
+            
+        }
+
+
+        .imagenes6{
+            position: absolute;
+            top: 1100px;
+            left: 50px;
+        }
+        .titulo_inter{
+        font-style: arial;
+            color: rgba(30,62,115,255);
+            font-size: 50px;
+            text-align: left;
+            position: absolute;
+            top: 1350px;
+            left: 200px;
+         }
+        
+        .p2{
+            color: rgba(20, 48, 94, 0.568);
+            text-align: left;
+            position: absolute;
+            top: 1450px;
+            left: 200px;
+            font-size: 22px;
+            line-height : 35px;
+            font-style: arial;
+            font-weight: 600 ;
+        }
+        .bot_inter1{
+            text-align: left;
+            border-radius: 10px;
+            width: 300px;
+            height: 500px;
+            box-shadow: 0px 0px 10px;
+            position: absolute;
+            top: 1650px;
+            left: 200px;
+        }
+       
+        .boton_int1{
+            font-style: arial ;
+            font-size: 25px;
+            font-weight: 600 ;
+            color: rgba(20, 48, 94, 0.945);
+            position: absolute;
+            top: 90px;
+            left: 40px;
+        }
+        .boton_inter1_p{
+            font-style: helvetica;
+            font-size: 18px;
+            color: rgba(20, 48, 94, 0.678);
+            position: absolute;
+            top: 170px;
+            left: 40px;
+            line-height : 25px;
+        }
+        .bot_inter2{
+            text-align: left;
+            border-radius: 10px;
+            width: 300px;
+            height: 500px;
+            box-shadow: 0px 0px 10px;
+            position: absolute;
+            top: 1650px;
+            left: 525px;
+        }
+        .bot_inter3{
+            text-align: left;
+            border-radius: 10px;
+            width: 300px;
+            height: 500px;
+            box-shadow: 0px 0px 10px;
+            position: absolute;
+            top: 1650px;
+            left: 850px;
+        }
+        .bot_inter4{
+            text-align: left;
+            border-radius: 10px;
+            width: 300px;
+            height: 500px;
+            box-shadow: 0px 0px 10px;
+            position: absolute;
+            top: 1650px;
+            left: 1175px;
+        }
+        
+        .imagenes7{
+            position: absolute;
+            top: 1670px;
+            left: 230px;
+        }
+
+        .imagenes8{
+            position: absolute;
+            top: 1670px;
+            left: 560px;
+        }
+        .imagenes9{
+            position: absolute;
+            top: 1670px;
+            left: 880px;
+        }
+        .imagenes10{
+            position: absolute;
+            top: 1670px;
+            left: 1200px;
+        }
+        .imagenes11{
+            position: absolute;
+            top: 2700px;
+            left: 0px;
+        }
+        .titulo_inter2{
+            font-style: arial;
+            font-weight: 800 ;
+            color: rgb(19, 49, 97);
+            font-size: 45px;
+            text-align: left;
+            position: absolute;
+            top: 2500px;
+            left: 850px;
+         }
+        
+        .p3{
+            color: rgba(20, 48, 94, 0.568);
+            text-align: left;
+            position: absolute;
+            top: 2600px;
+            left: 850px;
+            font-size: 25px;
+            line-height : 40px;
+            font-weight: 500;
+            font-style: arial;
+        }
+        
+
+        
+
+
+
+
+
+        
+        .imagenes12{
+            position: absolute;
+            top: 4000px;
+            left: 1000px;
+            height: 1000px;
+            width: 1000px;
+        }
+        .rectangulo10{
+            width: 1730px;
+            height: 500px;      
+            position: absolute;
+            top: 5000px;
+            left: 0px;
+            background-color:  rgba(238,243,255,255) ;
+        }
+        .triangulo7{
+            width: 0px;
+            height: 0px;
+            border-bottom: 175px solid rgba(227,233,248,255);
+            border-left: 175px solid transparent ;
+            border-right: 175px solid transparent ;
+            border-top: 0px solid transparent;
+            position: absolute;
+            top: 5326px;
+            left: 1240px;
+        }
+        .t-piepag{
+            font-style: arial;
+            font-weight: 800 ;
+            color: rgba(48,81,207,255);
+            font-size: 35px;
+            text-align: left;
+            position: absolute;
+            top: 5050px;
+            left: 170px;
+        }
+        .t-piepag2{
+            font-style: arial;
+            font-weight: 800 ;
+            color: rgb(35,66,120);
+            font-size: 30px;
+            text-align: left;
+        }
+        .piepag{
+            color: rgba(109,123,147,255);
+            text-align: left;
+            font-size: 20px;
+            line-height : 35px;
+            font-weight: 500;
+            font-style: arial;
+        }
+
+        #ab{position: absolute;
+            top: 5050px;
+            left: 900px;}
+        #compa{position: absolute;
+            top: 5050px;
+            left: 1150px; }
+        #sup{position: absolute;
+            top: 5050px;
+            left: 1450px;}
+        #goal{position: absolute;
+            top: 5120px;
+            left: 170px;}
+        #abau{position: absolute;
+            top: 5150px;
+            left: 900px;}
+        #feat{position: absolute;
+            top: 5210px;
+            left: 900px;}
+        #new{position: absolute;
+            top: 5275px;
+            left: 900px;}
+        #wew{position: absolute;
+            top: 5150px;
+            left: 1150px;}
+        #cap{position: absolute;
+            top: 5210px;
+            left: 1150px; }
+        #sec{position: absolute;
+            top: 5275px;
+            left: 1150px; }
+        #fa{position: absolute;
+            top: 5150px;
+            left: 1450px;}
+        #supc{position: absolute;
+            top: 5210px;
+            left: 1450px;}
+        #cont{position: absolute;
+            top: 5275px;
+            left: 1450px;}
+        #a2021{position: absolute;
+            top: 5400px;
+            left: 170px;}
+        #term{position: absolute;
+            top: 5400px;
+            left: 1240px; }
+
+
+        .bot_inter5{
+            text-align: left;
+            border-radius: 10px;
+            width: 570px;
+            height: 70px;
+            box-shadow: 0px 0px 10px;
+            position: absolute;
+            top: 2900px;
+            left: 900px;
+        }
+        .boton_int2{
+            font-style: arial ;
+            font-size: 20px;
+            font-weight: 600 ;
+            color: rgba(20, 48, 94, 0.945);
+            position: absolute;
+            top: 3px;
+            left: 100px;
+        }
+        .imagenesbotonesintera{
+            position: absolute;
+            top: 10px;
+            left: 30px;
+        }
+        .imagenesbotonesinterb{
+            position: absolute;
+            top: 20px;
+            left: 520px;
+        }
+        .bot_inter6{
+            text-align: left;
+            border-radius: 10px;
+            width: 570px;
+            height: 200px;
+            box-shadow: 0px 0px 10px;
+            position: absolute;
+            top: 3000px;
+            left: 900px;
+        }
+        .boton_inter2_p{
+            font-style: helvetica;
+            font-size: 17px;
+            color: rgba(20, 48, 94, 0.678);
+            position: absolute;
+            top: 70px;
+            left: 100px;
+            line-height : 25px;
+        }
+        .bot_inter7{
+            text-align: left;
+            border-radius: 10px;
+            width: 570px;
+            height: 70px;
+            box-shadow: 0px 0px 10px;
+            position: absolute;
+            top: 3230px;
+            left: 900px;
+        }
+        .bot_inter8{
+            text-align: left;
+            border-radius: 10px;
+            width: 570px;
+            height: 70px;
+            box-shadow: 0px 0px 10px;
+            position: absolute;
+            top: 3330px;
+            left: 900px;
+        }
+        .bot_inter9{
+            text-align: left;
+            border-radius: 10px;
+            width: 570px;
+            height: 70px;
+            box-shadow: 0px 0px 10px;
+            position: absolute;
+            top: 3430px;
+            left: 900px;
+        }
+        .titulo_inter3{
+            font-style: arial;
+            font-weight: 800 ;
+            color: rgb(19, 49, 97);
+            font-size: 45px;
+            text-align: left;
+            position: absolute;
+            top: 3750px;
+            left: 170px;
+         }
+        
+        .p4{
+            color: rgba(20, 48, 94, 0.568);
+            text-align: left;
+            position: absolute;
+            top: 3850px;
+            left: 170px;
+            font-size: 25px;
+            line-height : 40px;
+            font-weight: 600;
+            font-style: arial;
+        }
+        .triangulo8{
+            width: 0px;
+            height: 0px;
+            border-bottom: 170px solid transparent;
+            border-left: 0px solid transparent;
+            border-right: 170px solid  #7a7a7a17 ;
+            border-top: 170px solid transparent ;
+            position: absolute;
+            top: 3600px;
+            left: 1570px;
+        }
+        .rectangulo3{
+            width: 750px;
+            height: 3px;      
+            position: absolute;
+            top: 3770px;
+            left: 970px;
+            background-color:  #a19e9e15 ;
+        }
+        .bot_down1{
+            text-align: left;
+            border-radius: 10px;
+            width: 325px;
+            height: 300px;
+            box-shadow: 0px 0px 10px;
+            position: absolute;
+            top: 4100px;
+            left: 170px;
+        }
+        .boton_down{
+            font-style: helvetica;
+            font-size: 27px;
+            color: rgba(31,62,114,255);
+            position: absolute;
+            top: 30px;
+            left: 130px;
+            line-height : 25px;
+        }
+        .imagenesinter{
+            position: absolute;
+            top: 50px;
+            left: 30px;
+        }
+        .num{
+            color: rgba(108,123,146,255);
+            text-align: left;
+            position: absolute;
+            top: 80px;
+            left: 130px;
+            font-size: 17px;
+            line-height : 40px;
+            font-weight: 600;
+            font-style: arial;
+        }
+        .boton_db{
+            background-color: rgba(240,245,254,255);
+            text-align: left;
+            border-radius: 10px;
+            width: 260px;
+            height: 70px;
+            
+            position: absolute;
+            top: 175px;
+            left: 30px;
+        }
+        .boton_down_db{
+            font-style: helvetica;
+            font-size: 25px;
+            color: rgba(47,78,205,255);
+            position: absolute;
+            top: 0px;
+            left: 75px;
+            align-items: center;
+            line-height : 25px;
+        }
+        .bot_down2{
+            text-align: left;
+            border-radius: 10px;
+            width: 325px;
+            height: 300px;
+            box-shadow: 0px 0px 10px;
+            position: absolute;
+            top: 4100px;
+            left: 525px;
+        }
+        .bot_down3{
+            text-align: left;
+            border-radius: 10px;
+            width: 325px;
+            height: 300px;
+            box-shadow: 0px 0px 10px;
+            position: absolute;
+            top: 4450px;
+            left: 170px;
+        }
+        .bot_down4{
+            text-align: left;
+            border-radius: 10px;
+            width: 325px;
+            height: 300px;
+            box-shadow: 0px 0px 10px;
+            position: absolute;
+            top: 4450px;
+            left: 525px;
+        }
+        
